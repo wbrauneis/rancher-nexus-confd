@@ -1,0 +1,6 @@
+[template]
+src="config.groovy.tmpl"
+dest="/usr/share/nexus/nexus-confd/config.groovy"
+keys= [
+  "/self/service/metadata/nexus"
+]
